@@ -64,5 +64,3 @@ function checkAnswer(currentLevel){
 }
 
 
-
-
