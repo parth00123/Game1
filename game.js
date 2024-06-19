@@ -6,7 +6,6 @@ var userClickedPattern = [];
 var level = 0;
 if(level === 0){
     $(document).one("keydown",nextsequence);
-    $(documen).one("click",nextsequence);
 }
 
 function nextsequence(){
